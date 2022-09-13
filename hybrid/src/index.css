@@ -1,0 +1,45 @@
+*{
+  box-sizing:border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.ant-switch{
+  background:purple !important;
+
+}
+.ant-switch-checked{
+  background:blue !important;
+}
+@keyframes pipeAnimation {
+  0%{
+    width:100px;
+  }
+  50%{
+    width: 50px;
+  }
+  100%{
+    width:100px;
+  }
+  
+}
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #467FD0; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #059862; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #059862; 
+}
