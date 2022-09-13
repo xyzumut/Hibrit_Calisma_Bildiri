@@ -1,4 +1,4 @@
-#Calistirma Notları
+Calistirma Notları
 
 ### React bağımlılıkları için hybrid dizinine girip (cd hybrid) ' npm install react-scripts --save ' komutunu girmek gerekiyor. ->
 
