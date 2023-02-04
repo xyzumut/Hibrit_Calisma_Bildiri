@@ -1,5 +1,5 @@
-# BeSsmart Klonu
-###### Aldığım bir canlı eğitim sonunda bitirme projesi mahiyetinde ödev olarak verilen bir sayfa şablonunu elimden geldiğince klonlamaya çalıştım 
+# Hibrit Çalışma Bildiri Sistemi
+###### Market Calculus'de Staj yaparken geliştirdiğim, hibrit çalışma modeline uygun bir bildisi aracı. 
 
 ## Görseller
 
